@@ -11,7 +11,7 @@ class DetailPage extends StatefulWidget {
   State<DetailPage> createState() => _DetailPageState();
 }
 
-var gottenstar = 4;
+var gottenstar = 3;
 int selectedindex = -1;
 
 class _DetailPageState extends State<DetailPage> {

@@ -29,6 +29,7 @@ class AppButtons extends StatelessWidget {
       padding: EdgeInsets.all(7),
       width: size,
       height: size,
+      alignment: Alignment.center,
       child: isicon == false
           ? AppLargeText(
               text: "$str",
